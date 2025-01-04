@@ -5,7 +5,7 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://disk0s7.github.io',
+    site: 'https://disk0.io',
     integrations: [
         mdx(),
         sitemap(),
